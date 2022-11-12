@@ -1,6 +1,6 @@
 <h1>SocialBook</h1>
 
-<h4> SocialBook, es una redsocial, en donde puedes crear un usuario, compartir tus fotos preferidas y seguir a quien quierad .</h4>
+<h4> SocialBook, es una redsocial, en donde puedes crear un usuario, compartir tus fotos preferidas y seguir a quien quieras .</h4>
 
 
 <h2> Caracteristicas </h2>
