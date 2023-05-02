@@ -83,7 +83,7 @@ SE DEBE PONER: 127.0.0.1:8000/signup</li>
 </ol>
 </h4>
 
-<h2>RIAVICTORIA ROMERO ROMÁN</h2>
+<h2>VICTORIA ROMERO</h2>
 
 <h4> Proyecto Final de Python en CoderHouse.</h4>
 
